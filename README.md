@@ -10,7 +10,7 @@ ffxw0720 is a post-05 individual developer, founder of LingKongTeam
   - lingkong-wing
   - lingkong-wing-kernel
 - Under Development
-  - **Nasing** (Being developed)
+  - ***Nasing** (Being developed)*
   - lingkong-wing-lite
   - lingkong-wing-theme
 
