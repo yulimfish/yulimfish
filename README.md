@@ -4,13 +4,13 @@
 ffxw0720 is a post-05 individual developer, founder of LingKongTeam
 
 # Projects
+- Under Development
+  - ***Nasing** (Being developed)*
 - Archive
   - lingkong-robot
   - lingkong-robot-server
   - lingkong-wing
   - lingkong-wing-kernel
-- Under Development
-  - ***Nasing** (Being developed)*
   - lingkong-wing-lite
   - lingkong-wing-theme
 
