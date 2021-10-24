@@ -6,13 +6,13 @@ Epeiuss is a post-05 individual developer, founder of LingKongTeam
 # Projects
 - Under Development
   - ***Nasing** (Being developed)*
+  - ***Wing** (Being developed)*
+  - ***Wing-kernel** (Being developed)*
+  - ***lingkong-robot** (Being developed)*
 - Archive
   - lingkong-robot
   - lingkong-robot-server
-  - lingkong-wing
-  - lingkong-wing-kernel
-  - lingkong-wing-lite
-  - lingkong-wing-theme
+  - Wing-lite
 
 # Data
 <!-- Use https://github.com/anuraghazra/github-readme-stats. Thanks to Anurag Hazra!  -->
