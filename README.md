@@ -1,7 +1,7 @@
 ## Hello, welcome to Epeiuss's space！ 👋
 
 # Introduction
-Epeiuss is a post-05 individual developer, founder of LingKongTeam
+Epeiuss is founder of LingKongTeam
 
 # Projects
 - Under Development
