@@ -1,40 +1,13 @@
 ## Hello, welcome to Epeiuss's space！ 👋
 
 # Introduction
-Epeiuss is founder of LingKongTeam
-
-# Projects
-- Under Development
-  - ***Nasing** (Being developed)*
-  - ***Wing** (Being developed)*
-  - ***Wing-kernel** (Being developed)*
-  - ***lingkong-robot** (Being developed)*
-- Archive
-  - lingkong-robot
-  - lingkong-robot-server
-  - Wing-lite
+Epeiuss is founder of [WaterFlames](https://github.com/waterflames-team)
 
 # Data
 <!-- Use https://github.com/anuraghazra/github-readme-stats. Thanks to Anurag Hazra!  -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=epeiuss&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=epeiuss&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-### About LingKongTeam's works are closed for maintenance announcement
-For those of you who love LKT's works, we apologize here. Due to personal capacity issues, some of LKT's works will be closed for maintenance, including:
-- lingkong-robot
-- lingkong-robot-server
-- lingkong-wing
-- lingkong-wing-kernel
-- lingkong-wing-lite
-- lingkong-wing-theme
-
-
-The above works will be discontinued from now on and archived on the platform Github.
-Thank you all for your support of LKT!
-
 
 <!--
 **epeiuss/epeiuss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
